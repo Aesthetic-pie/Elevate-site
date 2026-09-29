@@ -182,7 +182,6 @@ header .navbar {
     margin: 10px auto 0;
     font-family: var(--font-heading);
     font-size: var(--font-size-l);
-    font-style: italic;
     font-weight: var(--font-weight-medium);
     line-height: 1.4;
     text-align: center;
